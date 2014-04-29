@@ -1,0 +1,16 @@
+/.eggs
+/.installed.cfg
+/.tox
+/bin
+/develop-eggs
+/eggs
+/include
+/lib
+/local
+/parts
+/pip-selfcheck.json
+/setuptools-*
+.*.sw?
+*.pyc
+*.pyo
+*.egg-info
